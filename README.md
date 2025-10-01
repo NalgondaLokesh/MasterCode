@@ -1,6 +1,6 @@
 # MasterCode - Code Snippet Manager
 
-MasterCode is a modern web application for developers to store, manage, and share code snippets. Built with React and styled with a sleek Cyber Neon theme, it provides an intuitive interface for organizing your code snippets with features like syntax highlighting, tags, and instant search.
+MasterCode is a modern web application for students & teachers to store, manage, and share code snippets. Built with React and styled with a sleek Cyber Neon theme, it provides an intuitive interface for organizing your code snippets with features like syntax highlighting, tags, and instant search.
 
 ## Features
 
