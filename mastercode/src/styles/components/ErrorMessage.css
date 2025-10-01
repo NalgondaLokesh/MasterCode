@@ -1,0 +1,9 @@
+.error-banner {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #ef4444; /* var(--error-color) */
+  padding: 0.75rem 1rem;
+  border-radius: 8px; /* var(--border-radius) */
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+}

@@ -1,0 +1,16 @@
+.error-page {
+  text-align: center;
+  padding: 4rem 2rem;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.error-page h1 {
+  margin-bottom: 1rem;
+  color: var(--text-color);
+}
+
+.error-page p {
+  margin-bottom: 2rem;
+  color: #6b7280; /* var(--text-secondary) */
+}

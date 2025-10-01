@@ -1,0 +1,28 @@
+:root {
+  /* Core Colors */
+  --primary-color: #00d9ff;
+  --background-color: #0a0b14;
+  --surface-color: rgba(255, 255, 255, 0.05);
+  --text-color: #ffffff;
+  --accent-color: #b967ff;
+  --accent-green: #00ff88;
+  --text-secondary: rgba(255, 255, 255, 0.7);
+  
+  /* Component Colors */
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --card-border: rgba(0, 217, 255, 0.3);
+  --input-bg: rgba(10, 11, 20, 0.8);
+  
+  /* Effects */
+  --glow-blue: 0 0 10px rgba(0, 217, 255, 0.3);
+  --glow-purple: 0 0 10px rgba(185, 103, 255, 0.3);
+  
+  /* Transitions */
+  --transition-speed: 0.3s;
+  --transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+  
+  /* Fonts */
+  --font-header: 'Inter', sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-code: 'JetBrains Mono', 'Monaco', 'Menlo', monospace;
+}

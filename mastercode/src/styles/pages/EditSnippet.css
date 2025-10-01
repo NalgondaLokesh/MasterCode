@@ -1,0 +1,30 @@
+.edit-snippet-page .page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: none;
+  border: none;
+  padding: 0 0 2rem 0;
+}
+
+.edit-snippet-page .back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #6b7280; /* var(--text-muted) */
+  text-decoration: none;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.edit-snippet-page .back-btn:hover {
+  color: var(--primary-color);
+}
+
+.edit-snippet-page .form-container {
+  background: var(--surface-color);
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 2rem;
+}
